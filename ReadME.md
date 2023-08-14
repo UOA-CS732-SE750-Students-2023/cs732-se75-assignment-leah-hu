@@ -20,6 +20,7 @@ Go to the Android Studio download page.
 Download the installer for your operating system (Windows, macOS, or Linux).
 Run the installer and follow the installation instructions.
 Start Android Studio after the installation is complete.
+
 2. Install Android SDK and AVD Manager
 
 Open Android Studio, and it will prompt you to install the Android SDK if it's not already installed.
@@ -27,6 +28,7 @@ Follow the installation instructions to install the Android SDK.
 In Android Studio, click on "Configure" (at the bottom right corner of the welcome screen) and then select "SDK Manager."
 Install the desired Android SDK version (API level) by selecting the checkbox next to it and clicking "Apply" or "OK."
 Switch to the "SDK Tools" tab and ensure "Android Emulator" and "Android SDK Platform-Tools" are selected. Click "Apply" or "OK" to install them.
+
 3. Create an Android Virtual Device (AVD)
 
 In Android Studio, click on "Configure" and select "AVD Manager."
@@ -34,6 +36,7 @@ Click on the "Create Virtual Device" button at the bottom left corner of the AVD
 Choose a device definition (e.g., Pixel 3) and click "Next."
 Select a system image (e.g., the latest Android version) and click "Next." If the system image is not downloaded yet, click "Download" and wait for the download to complete.
 Verify the device configuration and click "Finish" to create the AVD.
+
 4. Start the Android Simulator
 
 Open the AVD Manager in Android Studio by clicking on "Configure" and selecting "AVD Manager."
